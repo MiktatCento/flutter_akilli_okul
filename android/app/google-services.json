@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518194388428",
+    "firebase_url": "https://akilliokul-miktatcento.firebaseio.com",
+    "project_id": "akilliokul-miktatcento",
+    "storage_bucket": "akilliokul-miktatcento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518194388428:android:f2e5fd289cb4e50388d169",
+        "android_client_info": {
+          "package_name": "com.centosstudio.akilliokul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518194388428-ep3po932rl463u8643g1cmql5iqleruu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLQ-ShlGw6JFfCMCsZBIwWROArw_s7Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518194388428-ep3po932rl463u8643g1cmql5iqleruu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
